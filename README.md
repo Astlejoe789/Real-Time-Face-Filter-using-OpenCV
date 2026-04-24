@@ -52,13 +52,21 @@ The notebook performs the following steps:
 
 ### Input
 
-<img width="390" height="508" alt="my photo" src="https://github.com/user-attachments/assets/9492f173-755a-4786-b348-3392fe603b5b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9492f173-755a-4786-b348-3392fe603b5b" width="300"/>
+  <img src="https://github.com/user-attachments/assets/54f3d463-92f1-4022-89c4-e7a46a9bfbd8" width="300"/>
+</p>
 
-<img width="627" height="273" alt="sunglass1" src="https://github.com/user-attachments/assets/54f3d463-92f1-4022-89c4-e7a46a9bfbd8" />
+<p align="center">
+  <b>Face Image</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Sunglass Image</b>
+</p>
 
 ### Output
-<img width="1374" height="857" alt="image" src="https://github.com/user-attachments/assets/35793606-6464-4f31-88ca-7c06cc7bc34b" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/35793606-6464-4f31-88ca-7c06cc7bc34b" width="600"/>
+</p>
 
 ---
 
