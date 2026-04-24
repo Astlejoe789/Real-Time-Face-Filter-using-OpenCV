@@ -70,7 +70,6 @@ The notebook performs the following steps:
 <p align="left">
   <img src="https://github.com/user-attachments/assets/35793606-6464-4f31-88ca-7c06cc7bc34b" width="600"/>
 </p>
----
 
 ## Key Learning Concepts
 
