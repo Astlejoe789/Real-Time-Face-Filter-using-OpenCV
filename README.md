@@ -29,7 +29,7 @@ The notebook performs the following steps:
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ### 1. Load Images
 - Face image is loaded using OpenCV  
