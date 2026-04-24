@@ -71,15 +71,7 @@ The notebook performs the following steps:
   <img src="https://github.com/user-attachments/assets/35793606-6464-4f31-88ca-7c06cc7bc34b" width="600"/>
 </p>
 
-## Key Learning Concepts
 
-- Image reading and display using OpenCV  
-- Understanding image dimensions and channels  
-- Working with alpha channels (transparency)  
-- Image masking and blending  
-- Region of Interest (ROI) manipulation  
-
----
 
 ## Future Improvements
 
