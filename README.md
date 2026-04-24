@@ -59,7 +59,8 @@ The notebook performs the following steps:
       <b>Face Image</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/54f3d463-92f1-4022-89c4-e7a46a9bfbd8" width="400"/><br>
+      <img width="300"src="https://github.com/user-attachments/assets/2b83d4f1-3e68-482f-bceb-cc3a05e5cb23" />
+<br>
       <b>Sunglass Image</b>
     </td>
   </tr>
@@ -68,7 +69,7 @@ The notebook performs the following steps:
 ### Output
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/35793606-6464-4f31-88ca-7c06cc7bc34b" width="600"/>
+  <img src="https://github.com/user-attachments/assets/8d2f7a22-a8b2-4e56-a196-68337bcd6243" width="600"/>
 </p>
 
 
@@ -81,3 +82,7 @@ The notebook performs the following steps:
 - Support for multiple accessories (hats, masks, etc.)  
 
 ---
+
+## Result
+
+The project successfully overlays a sunglass image onto a human face using image processing techniques such as resizing, masking, and region-based blending.
