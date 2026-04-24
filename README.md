@@ -52,22 +52,24 @@ The notebook performs the following steps:
 
 ### Input
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9492f173-755a-4786-b348-3392fe603b5b" width="300"/>
-  <img src="https://github.com/user-attachments/assets/54f3d463-92f1-4022-89c4-e7a46a9bfbd8" width="300"/>
-</p>
-
-<p align="center">
-  <b>Face Image</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Sunglass Image</b>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9492f173-755a-4786-b348-3392fe603b5b" width="300"/><br>
+      <b>Face Image</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/54f3d463-92f1-4022-89c4-e7a46a9bfbd8" width="400"/><br>
+      <b>Sunglass Image</b>
+    </td>
+  </tr>
+</table>
 
 ### Output
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/35793606-6464-4f31-88ca-7c06cc7bc34b" width="600"/>
 </p>
-
 ---
 
 ## Key Learning Concepts
