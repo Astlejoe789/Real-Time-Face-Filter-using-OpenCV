@@ -48,7 +48,7 @@ The notebook performs the following steps:
 
 ---
 
-## 📸 Output Snippet
+## Output Snippet
 
 ### Input
 
